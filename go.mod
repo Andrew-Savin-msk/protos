@@ -1,4 +1,4 @@
-module protos
+module github.com/Andrew-Savin-msk/protos
 
 go 1.21.5
 
